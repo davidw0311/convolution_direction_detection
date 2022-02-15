@@ -1,6 +1,6 @@
 # convolution_direction_detection
 
-As a part of ELEC 221 project:
+As a part of UBC ELEC 221 project:
 used cross correlation to determine the direction of a video footage
 
 ### Example results:
